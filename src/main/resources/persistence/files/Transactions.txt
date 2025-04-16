@@ -1,0 +1,10 @@
+001@@82SP36@@2025-04-15@@TRANSFERENCIA@@250000.0@@97836@@destination=77615@@description=Pago arriendo@@
+001@@XL32IG@@2025-04-15@@DEPOSITO@@500000.0@@97836@@description=Updated Salary Deposit@@category=4ey4w@@
+001@@U4UC6@@2025-04-16@@TRANSFERENCIA@@50000.0@@NYEJE@@destination=F94IG@@description=Prueba de transferencia@@
+001@@IKSXP@@2025-04-16@@TRANSFERENCIA@@50000.0@@23708@@destination=47632@@description=Prueba de transferencia@@
+001@@94CJ7@@2025-04-16@@DEPOSITO@@50000.0@@23708@@description=Prueba de transferencia@@
+002@@ONA3D@@2025-04-16@@DEPOSITO@@100000.0@@77615@@description=Depósito inicial@@
+002@@HCROV@@2025-04-16@@RETIRO@@50000.0@@23708@@description=Retiro parcial@@
+001@@P0ADQ@@2025-04-16@@DEPOSITO@@50000.0@@97836@@description=Depósito inicial@@
+001@@COAV6@@2025-04-16@@RETIRO@@10000.0@@97836@@description=Retiro efectivo@@
+002@@8C71I@@2025-04-16@@DEPOSITO@@20000.0@@77615@@description=Depósito inicial@@

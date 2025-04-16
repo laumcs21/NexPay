@@ -1,0 +1,154 @@
+oct 29, 2024 9:31:51 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 655000.0
+oct 29, 2024 9:31:51 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 655000.0
+oct 29, 2024 9:40:47 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 655000.0
+oct 29, 2024 9:40:47 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 655000.0
+oct 29, 2024 10:21:26 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 630000.0
+oct 29, 2024 10:21:26 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 630000.0
+oct 29, 2024 10:21:26 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1001 - Nombre: laura - Correo: lau@gmail.com - Telefono: 3003710164 - Direcci贸n: villa carolina - Saldo Total: 995000.0
+oct 29, 2024 10:21:26 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1001 - Nombre: laura - Correo: lau@gmail.com - Telefono: 3003710164 - Direcci贸n: villa carolina - Saldo Total: 995000.0
+oct 29, 2024 10:28:02 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 610000.0
+oct 29, 2024 10:28:02 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 610000.0
+oct 29, 2024 10:28:02 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1001 - Nombre: laura - Correo: lau@gmail.com - Telefono: 3003710164 - Direcci贸n: villa carolina - Saldo Total: 1015000.0
+oct 29, 2024 10:28:02 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1001 - Nombre: laura - Correo: lau@gmail.com - Telefono: 3003710164 - Direcci贸n: villa carolina - Saldo Total: 1015000.0
+oct 29, 2024 10:28:55 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 460000.0
+oct 29, 2024 10:28:55 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 460000.0
+oct 29, 2024 10:28:55 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1001 - Nombre: laura - Correo: lau@gmail.com - Telefono: 3003710164 - Direcci贸n: villa carolina - Saldo Total: 1165000.0
+oct 29, 2024 10:28:55 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1001 - Nombre: laura - Correo: lau@gmail.com - Telefono: 3003710164 - Direcci贸n: villa carolina - Saldo Total: 1165000.0
+oct 29, 2024 10:38:32 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 360000.0
+oct 29, 2024 10:38:32 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci贸n: filandia - Saldo Total: 360000.0
+oct 29, 2024 10:38:32 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1001 - Nombre: laura - Correo: lau@gmail.com - Telefono: 3003710164 - Direcci贸n: villa carolina - Saldo Total: 1265000.0
+oct 29, 2024 10:38:32 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1001 - Nombre: laura - Correo: lau@gmail.com - Telefono: 3003710164 - Direcci贸n: villa carolina - Saldo Total: 1265000.0
+nov. 12, 2024 10:00:07 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnCrearUsuarios, Usuario Registrado-->  ID:1234567890 - Nombre: luis@gmail.com - Correo: 3003710164 - Telefono: la catellana - Direcci髇: 123s - Saldo Total: 0.0
+nov. 12, 2024 10:00:36 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234567890 - Nombre: luis@gmail.com - Correo: 3003710164 - Telefono: la catellana - Direcci髇: 123s - Saldo Total: 0.0
+nov. 12, 2024 10:00:37 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234567890 - Nombre: 3003710164 - Correo: la catellana - Telefono: 123s - Direcci髇: 123l - Saldo Total: 0.0
+nov. 12, 2024 10:00:55 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234567890 - Nombre: 3003710164 - Correo: la catellana - Telefono: 123s - Direcci髇: 123l - Saldo Total: 0.0
+nov. 12, 2024 12:46:46 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnCrearUsuarios, Usuario Registrado-->  ID:123456789 - Nombre: carolina - Correo: caro@gmail.com - Telefono: 3003720265 - Direcci髇: brasilia nueva - Saldo Total: 0.0
+nov. 12, 2024 12:55:49 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnCrearUsuarios, Usuario Registrado-->  ID:1234567899 - Nombre: Tatiana - Correo: tati@gmail.com - Telefono: 3003710166 - Direcci髇: la pavona - Saldo Total: 0.0
+nov. 12, 2024 1:00:55 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234567899 - Nombre: Tatiana - Correo: tati@gmail.com - Telefono: 3003710166 - Direcci髇: la pavona - Saldo Total: 0.0
+nov. 12, 2024 7:52:05 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:123456789 - Nombre: carolina - Correo: caro@gmail.com - Telefono: 3003720265 - Direcci髇: brasilia nueva - Saldo Total: 0.0
+nov. 12, 2024 9:55:42 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 560000.0
+nov. 12, 2024 9:55:42 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 560000.0
+nov. 12, 2024 9:55:50 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 360000.0
+nov. 12, 2024 9:55:50 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 360000.0
+nov. 12, 2024 10:09:33 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 460000.0
+nov. 12, 2024 10:09:33 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 460000.0
+nov. 12, 2024 10:10:57 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 440000.0
+nov. 12, 2024 10:10:57 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 440000.0
+nov. 12, 2024 10:10:57 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:10329 - Nombre: bryan - Correo: braycsfut@gmail.com - Telefono: 3023578426 - Direcci髇: villa carolina - Saldo Total: 80000.0
+nov. 12, 2024 10:10:57 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:10329 - Nombre: bryan - Correo: braycsfut@gmail.com - Telefono: 3023578426 - Direcci髇: villa carolina - Saldo Total: 80000.0
+nov. 13, 2024 9:33:53 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 440000.0
+nov. 13, 2024 9:33:53 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 440000.0
+nov. 13, 2024 9:35:20 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 190000.0
+nov. 13, 2024 9:35:20 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 190000.0
+nov. 13, 2024 9:36:32 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 180000.0
+nov. 13, 2024 9:36:32 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 180000.0
+nov. 13, 2024 9:37:42 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1180000.0
+nov. 13, 2024 9:37:42 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1180000.0
+nov. 13, 2024 9:38:39 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:10329 - Nombre: bryan - Correo: braycsfut@gmail.com - Telefono: 3023578426 - Direcci髇: villa carolina - Saldo Total: 580000.0
+nov. 13, 2024 9:38:39 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:10329 - Nombre: bryan - Correo: braycsfut@gmail.com - Telefono: 3023578426 - Direcci髇: villa carolina - Saldo Total: 580000.0
+nov. 17, 2024 5:43:31 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1190000.0
+nov. 17, 2024 5:43:31 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1190000.0
+nov. 17, 2024 5:43:48 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1200000.0
+nov. 17, 2024 5:43:48 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1200000.0
+nov. 17, 2024 5:44:17 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1210000.0
+nov. 17, 2024 5:44:17 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1210000.0
+nov. 17, 2024 5:44:50 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1200000.0
+nov. 17, 2024 5:44:50 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1200000.0
+nov. 17, 2024 5:44:50 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:12309 - Nombre: maria - Correo: maria@gmail.com - Telefono: 300 - Direcci髇: armenia - Saldo Total: 610000.0
+nov. 17, 2024 5:44:50 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:12309 - Nombre: maria - Correo: maria@gmail.com - Telefono: 300 - Direcci髇: armenia - Saldo Total: 610000.0
+nov. 17, 2024 5:45:48 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1190000.0
+nov. 17, 2024 5:45:48 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:1234 - Nombre: jefferson - Correo: jeff@gmail.com - Telefono: 3009876543 - Direcci髇: filandia - Saldo Total: 1190000.0
+nov. 17, 2024 5:45:48 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnEliminarUsuarios, Usuario Eliminado-->  ID:12309 - Nombre: maria - Correo: maria@gmail.com - Telefono: 300 - Direcci髇: armenia - Saldo Total: 620000.0
+nov. 17, 2024 5:45:48 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnActualizarUsuarios, Usuario Actualizado-->  ID:12309 - Nombre: maria - Correo: maria@gmail.com - Telefono: 300 - Direcci髇: armenia - Saldo Total: 620000.0
+nov. 18, 2024 10:06:51 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btnCrearUsuarios, Usuario Registrado-->  ID:123456789 - Nombre: juanito@gmail.com - Correo: 23132131231 - Telefono: quindio - Direcci髇: 1a11 - Saldo Total: 0.0
+abr 15, 2025 1:37:33 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnCreateUsers,User Registered--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:37:33 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnDeleteUsers,User Deleted--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:37:33 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnUpdateUsers,User Updated--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:37:33 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnDeleteUsers,User Deleted--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:50:44 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnCreateUsers,User Registered--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:50:44 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnDeleteUsers,User Deleted--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:50:44 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnUpdateUsers,User Updated--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:50:44 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnDeleteUsers,User Deleted--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:52:37 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnDeleteUsers,User Deleted--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:52:37 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnUpdateUsers,User Updated--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:52:37 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnDeleteUsers,User Deleted--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:55:18 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnDeleteUsers,User Deleted--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:55:18 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnUpdateUsers,User Updated--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0
+abr 15, 2025 1:55:19 P.鈥疢. Proyecto.Nexpay.FileUtil.FileUtil saveLogRecord
+INFO: btnDeleteUsers,User Deleted--> ID:001 - Name: Alice Smith - Email: alice@example.com - Phone: 1234567890 - Address: 123 Main St - Total Balance: 1000.0

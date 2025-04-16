@@ -1,0 +1,34 @@
+oct 29, 2024 10:21:26 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btn CrearTransacci贸n , Transacci贸n Creada: -->  - Id Usuario: 1234 - ID: 4CO01 - Fecha: 2024-10-29 - Tipo de transacci贸n: TRANSFERENCIA - Monto: 25000.0 - Descripci贸n: Pago recibo del agua - ID Cuenta Origen: 4859566803 - ID Cuenta Destino: 2522905780 - Categoria: Servicios
+oct 29, 2024 10:28:02 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btn CrearTransacci贸n , Transacci贸n Creada: -->  - Id Usuario: 1234 - ID: 3CFDC - Fecha: 2024-10-29 - Tipo de transacci贸n: TRANSFERENCIA - Monto: 20000.0 - Descripci贸n: Pago recibo Luz - ID Cuenta Origen: 4859566803 - ID Cuenta Destino: 2522905780 - Categoria: Servicios
+oct 29, 2024 10:28:55 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btn CrearTransacci贸n , Transacci贸n Creada: -->  - Id Usuario: 1234 - ID: 3OWKC - Fecha: 2024-10-29 - Tipo de transacci贸n: TRANSFERENCIA - Monto: 150000.0 - Descripci贸n: Pago recigo agua - ID Cuenta Origen: 4859566803 - ID Cuenta Destino: 2522905780 - Categoria: Servicios
+oct 29, 2024 10:38:32 A.鈥疢. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btn CrearTransacci贸n , Transacci贸n Creada: -->  - Id Usuario: 1234 - ID: 2KDOL - Fecha: 2024-10-29 - Tipo de transacci贸n: TRANSFERENCIA - Monto: 100000.0 - Descripci贸n: Pago recibo internet - ID Cuenta Origen: 4859566803 - ID Cuenta Destino: 2522905780 - Categoria: Servicios
+nov. 12, 2024 9:55:42 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: T8RJ9 - Fecha: 2024-11-12 - Tipo de transacci髇: DEPOSITO - Monto: 200000.0 - Descripci髇: null - ID Cuenta Origen: 4859566803 - ID Cuenta Destino: null - Categoria: Mercado
+nov. 12, 2024 9:55:50 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: V4Y9O - Fecha: 2024-11-12 - Tipo de transacci髇: RETIRO - Monto: 200000.0 - Descripci髇: null - ID Cuenta Origen: 4859566803 - ID Cuenta Destino: null - Categoria: Mercado
+nov. 12, 2024 10:09:33 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: KAFMH - Fecha: 2024-11-12 - Tipo de transacci髇: DEPOSITO - Monto: 100000.0 - Descripci髇: null - ID Cuenta Origen: 4859566803 - ID Cuenta Destino: null - Categoria:  
+nov. 12, 2024 10:10:57 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: EWASJ - Fecha: 2024-11-12 - Tipo de transacci髇: TRANSFERENCIA - Monto: 20000.0 - Descripci髇: netflix - ID Cuenta Origen: 4859566803 - ID Cuenta Destino: 0844163116 - Categoria: Entretenimiento
+nov. 13, 2024 9:35:20 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: 4YEYA - Fecha: 2024-11-13 - Tipo de transacci髇: RETIRO - Monto: 250000.0 - Descripci髇: null - ID Cuenta Origen: 4859566803 - ID Cuenta Destino: null - Categoria: Entretenimiento
+nov. 13, 2024 9:36:32 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: 953KN - Fecha: 2024-11-13 - Tipo de transacci髇: RETIRO - Monto: 10000.0 - Descripci髇: null - ID Cuenta Origen: 1954210179 - ID Cuenta Destino: null - Categoria: Entretenimiento
+nov. 13, 2024 9:37:42 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: B37OX - Fecha: 2024-11-13 - Tipo de transacci髇: DEPOSITO - Monto: 1000000.0 - Descripci髇: null - ID Cuenta Origen: 4859566803 - ID Cuenta Destino: null - Categoria:  
+nov. 13, 2024 9:38:39 A.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 10329 - ID: Y30BE - Fecha: 2024-11-13 - Tipo de transacci髇: DEPOSITO - Monto: 500000.0 - Descripci髇: null - ID Cuenta Origen: 0844163116 - ID Cuenta Destino: null - Categoria:  
+nov. 17, 2024 5:43:31 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: 8VYJZ - Fecha: 2024-11-17 - Tipo de transacci髇: DEPOSITO - Monto: 10000.0 - Descripci髇: null - ID Cuenta Origen: 1954210179 - ID Cuenta Destino: null - Categoria:  
+nov. 17, 2024 5:43:48 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: 3PXAX - Fecha: 2024-11-17 - Tipo de transacci髇: DEPOSITO - Monto: 10000.0 - Descripci髇: null - ID Cuenta Origen: 1954210179 - ID Cuenta Destino: null - Categoria:  
+nov. 17, 2024 5:44:17 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: HYK0A - Fecha: 2024-11-17 - Tipo de transacci髇: DEPOSITO - Monto: 10000.0 - Descripci髇: null - ID Cuenta Origen: 1954210179 - ID Cuenta Destino: null - Categoria: Mercado
+nov. 17, 2024 5:44:50 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: OVBH8 - Fecha: 2024-11-17 - Tipo de transacci髇: TRANSFERENCIA - Monto: 10000.0 - Descripci髇: null - ID Cuenta Origen: 1954210179 - ID Cuenta Destino: 8967114025 - Categoria: Mercado
+nov. 17, 2024 5:45:47 P.燤. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACI覰:  btn CrearTransacci髇 , Transacci髇 Creada: -->  - Id Usuario: 1234 - ID: JWSAW - Fecha: 2024-11-17 - Tipo de transacci髇: TRANSFERENCIA - Monto: 10000.0 - Descripci髇: null - ID Cuenta Origen: 1954210179 - ID Cuenta Destino: 8967114025 - Categoria: Mercado

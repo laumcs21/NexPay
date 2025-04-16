@@ -1,0 +1,169 @@
+package Proyecto.Nexpay.Model;
+
+import java.io.Serializable;
+import java.time.LocalDate;
+
+public class Transaction implements Serializable {
+
+    private static final long serialVersionUID = 1L;
+    private String userId;
+    private String id;
+    private LocalDate date;
+    private TransactionType type;
+    private double amount;
+    private String description;
+    private String sourceAccountNumber;
+    private String destinationAccountNumber;
+    private String categoryId;
+
+    public Transaction(Builder builder) {
+        this.userId = builder.userId;
+        this.id = builder.id;
+        this.date = builder.date;
+        this.type = builder.type;
+        this.amount = builder.amount;
+        this.description = builder.description;
+        this.sourceAccountNumber = builder.sourceAccountNumber;
+        this.destinationAccountNumber = builder.destinationAccountNumber;
+        this.categoryId = builder.categoryId;
+    }
+
+    public String getUserId() {
+        return userId;
+    }
+
+    public void setUserId(String userId) {
+        this.userId = userId;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public LocalDate getDate() {
+        return date;
+    }
+
+    public void setDate(LocalDate date) {
+        this.date = date;
+    }
+
+    public TransactionType getType() {
+        return type;
+    }
+
+    public void setType(TransactionType type) {
+        this.type = type;
+    }
+
+    public double getAmount() {
+        return amount;
+    }
+
+    public void setAmount(double amount) {
+        this.amount = amount;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public String getSourceAccountNumber() {
+        return sourceAccountNumber;
+    }
+
+    public void setSourceAccountNumber(String sourceAccountNumber) {
+        this.sourceAccountNumber = sourceAccountNumber;
+    }
+
+    public String getDestinationAccountNumber() {
+        return destinationAccountNumber;
+    }
+
+    public void setDestinationAccountNumber(String destinationAccountNumber) {
+        this.destinationAccountNumber = destinationAccountNumber;
+    }
+
+    public String getCategoryId() {
+        return categoryId;
+    }
+
+    public void setCategoryId(String categoryId) {
+        this.categoryId = categoryId;
+    }
+
+    public static class Builder {
+
+        private String userId;
+        private String id;
+        private LocalDate date;
+        private TransactionType type;
+        private double amount;
+        private String description;
+        private String sourceAccountNumber;
+        private String destinationAccountNumber;
+        private String categoryId;
+
+        public Builder(String userId, String id, LocalDate date, TransactionType type, double amount,
+                       String sourceAccountNumber) {
+            this.type = type;
+            this.userId = userId;
+            this.id = id;
+            this.date = date;
+            this.amount = amount;
+            this.sourceAccountNumber = sourceAccountNumber;
+        }
+
+        public Builder withDestinationAccountNumber(String destinationAccountNumber) {
+            this.destinationAccountNumber = destinationAccountNumber;
+            return this;
+        }
+
+        public Builder withDescription(String description) {
+            this.description = description;
+            return this;
+        }
+
+        public Builder withCategory(String categoryId) {
+            this.categoryId = categoryId;
+            return this;
+        }
+
+        public Transaction build() {
+            return new Transaction(this);
+        }
+    }
+
+    public static long getSerialversionuid() {
+        return serialVersionUID;
+    }
+
+    public String getCategoryName() {
+        Category category = CategorySearch.findCategoryById(this.categoryId);
+        return (category != null) ? category.getName() : " ";
+    }
+
+    @Override
+    public String toString() {
+        return "Transaction{" +
+                "userId='" + userId + '\'' +
+                ", transactionCode='" + id + '\'' +
+                ", date=" + date +
+                ", transactionType=" + type +
+                ", amount=" + amount +
+                ", sourceAccountNumber='" + sourceAccountNumber + '\'' +
+                (destinationAccountNumber != null ? ", destinationAccountNumber='" + destinationAccountNumber + '\'' : "") +
+                (description != null ? ", description='" + description + '\'' : "") +
+                (categoryId != null ? ", category='" + categoryId + '\'' : "") +
+                '}';
+    }
+}
+

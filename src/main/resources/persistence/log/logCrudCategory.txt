@@ -1,0 +1,6 @@
+nov. 12, 2024 8:16:39 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnCrearCategoria, Categoria Creada-->  ID:h78yc - Nombre: Regalos cumpleaños - Descripción: Presupuesto para los regalos de cumpleaños (anual)
+nov. 12, 2024 8:42:10 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCategoria, Categoria Eliminada-->  ID:h78yc - Nombre: Cumpleaños - Descripción: Presupuesto para los regalos de cumpleaños (anual)
+nov. 12, 2024 8:42:10 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCategoria, Categoria Actualizada-->  ID:h78yc - Nombre: Cumpleaños - Descripción: Presupuesto para los regalos de cumpleaños (anual)

@@ -1,0 +1,104 @@
+oct 29, 2024 10:21:26 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - NÃºmero Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 460000.0
+oct 29, 2024 10:21:26 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - NÃºmero Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 460000.0
+oct 29, 2024 10:21:26 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1001 - ID: KT73H - Nombre Banco: Davivienda - NÃºmero Cuenta: 2522905780 - Tipo de Cuenta: CORRIENTE - Saldo: 995000.0
+oct 29, 2024 10:21:26 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1001 - ID: KT73H - Nombre Banco: Davivienda - NÃºmero Cuenta: 2522905780 - Tipo de Cuenta: CORRIENTE - Saldo: 995000.0
+oct 29, 2024 10:28:02 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - NÃºmero Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 440000.0
+oct 29, 2024 10:28:02 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - NÃºmero Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 440000.0
+oct 29, 2024 10:28:02 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1001 - ID: KT73H - Nombre Banco: Davivienda - NÃºmero Cuenta: 2522905780 - Tipo de Cuenta: CORRIENTE - Saldo: 1015000.0
+oct 29, 2024 10:28:02 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1001 - ID: KT73H - Nombre Banco: Davivienda - NÃºmero Cuenta: 2522905780 - Tipo de Cuenta: CORRIENTE - Saldo: 1015000.0
+oct 29, 2024 10:28:55 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - NÃºmero Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 290000.0
+oct 29, 2024 10:28:55 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - NÃºmero Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 290000.0
+oct 29, 2024 10:28:55 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1001 - ID: KT73H - Nombre Banco: Davivienda - NÃºmero Cuenta: 2522905780 - Tipo de Cuenta: CORRIENTE - Saldo: 1165000.0
+oct 29, 2024 10:28:55 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1001 - ID: KT73H - Nombre Banco: Davivienda - NÃºmero Cuenta: 2522905780 - Tipo de Cuenta: CORRIENTE - Saldo: 1165000.0
+oct 29, 2024 10:38:32 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - NÃºmero Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 190000.0
+oct 29, 2024 10:38:32 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - NÃºmero Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 190000.0
+oct 29, 2024 10:38:32 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1001 - ID: KT73H - Nombre Banco: Davivienda - NÃºmero Cuenta: 2522905780 - Tipo de Cuenta: CORRIENTE - Saldo: 1265000.0
+oct 29, 2024 10:38:32 A.â€¯M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFO:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1001 - ID: KT73H - Nombre Banco: Davivienda - NÃºmero Cuenta: 2522905780 - Tipo de Cuenta: CORRIENTE - Saldo: 1265000.0
+nov. 12, 2024 9:55:42 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 390000.0
+nov. 12, 2024 9:55:42 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 390000.0
+nov. 12, 2024 9:55:50 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 190000.0
+nov. 12, 2024 9:55:50 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 190000.0
+nov. 12, 2024 10:09:33 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 290000.0
+nov. 12, 2024 10:09:33 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 290000.0
+nov. 12, 2024 10:10:57 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 270000.0
+nov. 12, 2024 10:10:57 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 270000.0
+nov. 12, 2024 10:10:57 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:10329 - ID: 3O7ZQ - Nombre Banco: Bancolombia - Número Cuenta: 0844163116 - Tipo de Cuenta: AHORRO - Saldo: 80000.0
+nov. 12, 2024 10:10:57 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:10329 - ID: 3O7ZQ - Nombre Banco: Bancolombia - Número Cuenta: 0844163116 - Tipo de Cuenta: AHORRO - Saldo: 80000.0
+nov. 13, 2024 8:51:18 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnCrearCuenta, Cuenta Creada-->  ID Usuario:1001 - ID: EEYVB - Nombre Banco: Bancolombia - Número Cuenta: 5872124381 - Tipo de Cuenta: AHORRO - Saldo: 0.0
+nov. 13, 2024 8:51:57 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1001 - ID: EEYVB - Nombre Banco: Bancolombia - Número Cuenta: 5872124381 - Tipo de Cuenta: AHORRO - Saldo: 0.0
+nov. 13, 2024 8:51:57 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1001 - ID: EEYVB - Nombre Banco: Bancolombia - Número Cuenta: 5872124381 - Tipo de Cuenta: CORRIENTE - Saldo: 0.0
+nov. 13, 2024 8:52:06 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1001 - ID: EEYVB - Nombre Banco: Bancolombia - Número Cuenta: 5872124381 - Tipo de Cuenta: CORRIENTE - Saldo: 0.0
+nov. 13, 2024 9:35:20 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 20000.0
+nov. 13, 2024 9:35:20 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 20000.0
+nov. 13, 2024 9:36:32 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 160000.0
+nov. 13, 2024 9:36:32 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 160000.0
+nov. 13, 2024 9:37:42 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 1020000.0
+nov. 13, 2024 9:37:42 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: VUQRZ - Nombre Banco: Finandina - Número Cuenta: 4859566803 - Tipo de Cuenta: AHORRO - Saldo: 1020000.0
+nov. 13, 2024 9:38:39 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:10329 - ID: 3O7ZQ - Nombre Banco: Bancolombia - Número Cuenta: 0844163116 - Tipo de Cuenta: AHORRO - Saldo: 580000.0
+nov. 13, 2024 9:38:39 A. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:10329 - ID: 3O7ZQ - Nombre Banco: Bancolombia - Número Cuenta: 0844163116 - Tipo de Cuenta: AHORRO - Saldo: 580000.0
+nov. 17, 2024 5:43:31 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 170000.0
+nov. 17, 2024 5:43:31 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 170000.0
+nov. 17, 2024 5:43:48 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 180000.0
+nov. 17, 2024 5:43:48 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 180000.0
+nov. 17, 2024 5:44:17 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 190000.0
+nov. 17, 2024 5:44:17 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 190000.0
+nov. 17, 2024 5:44:50 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 180000.0
+nov. 17, 2024 5:44:50 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 180000.0
+nov. 17, 2024 5:44:50 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:12309 - ID: Z8ZWO - Nombre Banco: bancolombia - Número Cuenta: 8967114025 - Tipo de Cuenta: AHORRO - Saldo: 610000.0
+nov. 17, 2024 5:44:50 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:12309 - ID: Z8ZWO - Nombre Banco: bancolombia - Número Cuenta: 8967114025 - Tipo de Cuenta: AHORRO - Saldo: 610000.0
+nov. 17, 2024 5:45:48 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 170000.0
+nov. 17, 2024 5:45:48 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:1234 - ID: AAZV1 - Nombre Banco: Caja Social - Número Cuenta: 1954210179 - Tipo de Cuenta: CORRIENTE - Saldo: 170000.0
+nov. 17, 2024 5:45:48 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnEliminarCuenta, Cuenta Eliminada-->  ID Usuario:12309 - ID: Z8ZWO - Nombre Banco: bancolombia - Número Cuenta: 8967114025 - Tipo de Cuenta: AHORRO - Saldo: 620000.0
+nov. 17, 2024 5:45:48 P. M. uniquindio.edu.poo.billetera_archivo_util.ArchivoUtil guardarRegistroLog
+INFORMACIÓN:  btnActualizarCuenta, Cuenta Actualizada-->  ID Usuario:12309 - ID: Z8ZWO - Nombre Banco: bancolombia - Número Cuenta: 8967114025 - Tipo de Cuenta: AHORRO - Saldo: 620000.0
