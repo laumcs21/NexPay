@@ -14,7 +14,6 @@ public class Transaction implements Serializable {
     private String description;
     private String sourceAccountNumber;
     private String destinationAccountNumber;
-    private String categoryId;
 
     public Transaction(Builder builder) {
         this.userId = builder.userId;
@@ -25,7 +24,6 @@ public class Transaction implements Serializable {
         this.description = builder.description;
         this.sourceAccountNumber = builder.sourceAccountNumber;
         this.destinationAccountNumber = builder.destinationAccountNumber;
-        this.categoryId = builder.categoryId;
     }
 
     public String getUserId() {
@@ -92,14 +90,6 @@ public class Transaction implements Serializable {
         this.destinationAccountNumber = destinationAccountNumber;
     }
 
-    public String getCategoryId() {
-        return categoryId;
-    }
-
-    public void setCategoryId(String categoryId) {
-        this.categoryId = categoryId;
-    }
-
     public static class Builder {
 
         private String userId;
@@ -110,7 +100,6 @@ public class Transaction implements Serializable {
         private String description;
         private String sourceAccountNumber;
         private String destinationAccountNumber;
-        private String categoryId;
 
         public Builder(String userId, String id, LocalDate date, TransactionType type, double amount,
                        String sourceAccountNumber) {
@@ -132,11 +121,6 @@ public class Transaction implements Serializable {
             return this;
         }
 
-        public Builder withCategory(String categoryId) {
-            this.categoryId = categoryId;
-            return this;
-        }
-
         public Transaction build() {
             return new Transaction(this);
         }
@@ -144,11 +128,6 @@ public class Transaction implements Serializable {
 
     public static long getSerialversionuid() {
         return serialVersionUID;
-    }
-
-    public String getCategoryName() {
-        Category category = CategorySearch.findCategoryById(this.categoryId);
-        return (category != null) ? category.getName() : " ";
     }
 
     @Override
@@ -162,7 +141,6 @@ public class Transaction implements Serializable {
                 ", sourceAccountNumber='" + sourceAccountNumber + '\'' +
                 (destinationAccountNumber != null ? ", destinationAccountNumber='" + destinationAccountNumber + '\'' : "") +
                 (description != null ? ", description='" + description + '\'' : "") +
-                (categoryId != null ? ", category='" + categoryId + '\'' : "") +
                 '}';
     }
 }

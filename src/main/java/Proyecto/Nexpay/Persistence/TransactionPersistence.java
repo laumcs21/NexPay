@@ -44,9 +44,6 @@ public class TransactionPersistence {
             if (transaction.getDescription() != null) {
                 transactionText.append("description=").append(transaction.getDescription()).append("@@");
             }
-            if (transaction.getCategoryId() != null) {
-                transactionText.append("category=").append(transaction.getCategoryId()).append("@@");
-            }
             transactionText.append("\n");
         }
 
@@ -96,8 +93,6 @@ public class TransactionPersistence {
                         builder.withDestinationAccountNumber(split[i].substring("destination=".length()));
                     } else if (split[i].startsWith("description=")) {
                         builder.withDescription(split[i].substring("description=".length()));
-                    } else if (split[i].startsWith("category=")) {
-                        builder.withCategory(split[i].substring("category=".length()));
                     }
                 }
 

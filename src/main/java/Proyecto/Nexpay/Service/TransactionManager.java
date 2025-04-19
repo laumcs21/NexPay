@@ -2,7 +2,6 @@ package Proyecto.Nexpay.Service;
 
 import Proyecto.Nexpay.Datastructures.Stack;
 import Proyecto.Nexpay.Model.*;
-
 public class TransactionManager {
 
     private final Nexpay nexpay;
